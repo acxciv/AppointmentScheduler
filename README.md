@@ -1,4 +1,4 @@
-##### ** AppointmentScheduler Version 1.0.0
+##### * AppointmentScheduler Version 1.0.0
 
 ##### The application is intended for businesses to schedule appointments between customers and consultants.
 
